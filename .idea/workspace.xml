@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c7af424-5051-4f26-b1c7-95e48fbf8467" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1st_and_last_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IMG_20170914_125023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alphabet_rangoli.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/armstrong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backspace_string_compare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base7'.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beautiful_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_gap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/break_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/burgers_ingre.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/candies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cc1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/check_st_line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chef_diet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chef_drinks_coke.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codechef_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colour_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comb_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/complex_mult.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/complex_no_multi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consec_1s.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contains_dup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convert_image_bnw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookies_distribute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count_unique_digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/counter_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cv1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily_temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_of_the_week.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_of_year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dec_to_bin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decrypt_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/divide_two_integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duplicates_in_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excel_sheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/factorial_trailing0s.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fibo_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files_10thline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flight_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flip_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flipbits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/g31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goat_latin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/group_anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/group_people.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gym_equip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hamming_dist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/horizontal_barplot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/is_anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/is_boomerang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/is_perfect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/is_straight_line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/is_subsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/isomorphic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/k_weakest_rows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard row.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kth_row_pascal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/largest_perimeter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/largest_triangle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/left_right_sum_equal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letter_comb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/longest_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/longest_palindromic_substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/magic_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/magic_squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/magic_squares_all.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/max_points_on_line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/min_abs_diff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/min_flips.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/min_refills_car_fuel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/money_change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/most_common_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/n_unique_int.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/occurence_bigram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pascal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/perfect_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pltree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plus_multiply.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/power_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/power_of_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prime1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prime_arrangements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prime_n_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prime_num_fastest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/print_words_vertically.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/range_addition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/range_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rank_transform.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/relative_sort_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/remove_elem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/replace_element_with_great_right.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rev_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rev_vowel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse-string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse_bits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse_words_reverse_letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search_2d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/self_dividing_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seq_digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequential_digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set_matrix_zeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shift_2d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smallest_divisor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solve_lin_eq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stats_from_large.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/str_compress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subsets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/substrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sum_of_even_nums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_to_speech.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/that_is_my_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tic_tac_toe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/time1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/top_k_freq_elem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transposse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tribonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ugly_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unique.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unique_morse_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unique_number_of_occur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unique_occur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/valid_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/valid_square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/valid_sudoku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wiki_get.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word_pattern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words_from_other_word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youtube_video_downloader.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python_files" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Data Science\python_files\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UgmDlVUWz38kUN11omvPDQPyMt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/sem-4/DBMS/project/final/reg_new" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.counter_game">
+    <configuration name="colour_game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/colour_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="corner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/corner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="counter_game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/counter_game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="left_right_sum_equal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/left_right_sum_equal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unique" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unique.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.counter_game" />
+        <item itemvalue="Python.left_right_sum_equal" />
+        <item itemvalue="Python.unique" />
+        <item itemvalue="Python.corner" />
+        <item itemvalue="Python.colour_game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c7af424-5051-4f26-b1c7-95e48fbf8467" name="Default Changelist" comment="" />
+      <created>1575786497099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575786497099</updated>
+      <workItem from="1575786558048" duration="6025000" />
+      <workItem from="1576489367980" duration="609000" />
+      <workItem from="1576496021657" duration="739000" />
+      <workItem from="1576730150406" duration="2627000" />
+      <workItem from="1577359144399" duration="783000" />
+      <workItem from="1577619295342" duration="7468000" />
+      <workItem from="1577707774757" duration="366000" />
+      <workItem from="1577717777677" duration="1236000" />
+      <workItem from="1577778431147" duration="5939000" />
+      <workItem from="1578488891482" duration="6052000" />
+      <workItem from="1578547223148" duration="1109000" />
+      <workItem from="1578744837952" duration="16122000" />
+      <workItem from="1579169545662" duration="5724000" />
+      <workItem from="1579255551613" duration="8107000" />
+      <workItem from="1579319053928" duration="5501000" />
+      <workItem from="1579595359812" duration="9839000" />
+      <workItem from="1579670398432" duration="8581000" />
+      <workItem from="1579776803135" duration="5241000" />
+      <workItem from="1579840252740" duration="601000" />
+      <workItem from="1579961262326" duration="4523000" />
+      <workItem from="1580014881645" duration="7604000" />
+      <workItem from="1580274211197" duration="1430000" />
+      <workItem from="1580402847181" duration="2713000" />
+      <workItem from="1580445806583" duration="4056000" />
+      <workItem from="1580575510281" duration="1252000" />
+      <workItem from="1580636117151" duration="2217000" />
+      <workItem from="1580707376924" duration="8276000" />
+      <workItem from="1580884768906" duration="6195000" />
+      <workItem from="1581139289458" duration="1213000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_files$corner.coverage" NAME="corner Coverage Results" MODIFIED="1580718775201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/python_files$youtube_video_downloader.coverage" NAME="youtube_video_downloader Coverage Results" MODIFIED="1579699475618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$convert_image_bnw.coverage" NAME="convert_image_bnw Coverage Results" MODIFIED="1579700074596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$break_palindrome.coverage" NAME="break_palindrome Coverage Results" MODIFIED="1579964710169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$min_flips.coverage" NAME="min_flips Coverage Results" MODIFIED="1578898838121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$colour_game.coverage" NAME="colour_game Coverage Results" MODIFIED="1580714843200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$divide_two_integers.coverage" NAME="divide_two_integers Coverage Results" MODIFIED="1578755332472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$alphabet_rangoli.coverage" NAME="alphabet_rangoli Coverage Results" MODIFIED="1579782154522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$1st_and_last_index.coverage" NAME="1st_and_last_index Coverage Results" MODIFIED="1578755348523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$longest_palindrome.coverage" NAME="longest_palindrome Coverage Results" MODIFIED="1578831215377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$magic_dict.coverage" NAME="magic_dict Coverage Results" MODIFIED="1579332392099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$freq.coverage" NAME="freq Coverage Results" MODIFIED="1580707824026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/sem-6/cv/assignment-1" />
+    <SUITE FILE_PATH="coverage/python_files$max_points_on_line.coverage" NAME="max_points_on_line Coverage Results" MODIFIED="1578826359032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$codechef_01.coverage" NAME="codechef_01 Coverage Results" MODIFIED="1579976164350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$k_weakest_rows.coverage" NAME="k_weakest_rows Coverage Results" MODIFIED="1580638483102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$letter_comb.coverage" NAME="letter_comb Coverage Results" MODIFIED="1579625576737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$seq_digits.coverage" NAME="seq_digits Coverage Results" MODIFIED="1579698082665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$counter_game.coverage" NAME="counter_game Coverage Results" MODIFIED="1580920461915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$binary_gap.coverage" NAME="binary_gap Coverage Results" MODIFIED="1579272127130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$group_anagrams.coverage" NAME="group_anagrams Coverage Results" MODIFIED="1578756195393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$decrypt_string.coverage" NAME="decrypt_string Coverage Results" MODIFIED="1578745842170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$unique.coverage" NAME="unique Coverage Results" MODIFIED="1580899494676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$transposse.coverage" NAME="transposse Coverage Results" MODIFIED="1579612975677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$largest_triangle_area.coverage" NAME="largest_triangle_area Coverage Results" MODIFIED="1579274122269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$rank_transform.coverage" NAME="rank_transform Coverage Results" MODIFIED="1579963058409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$left_right_sum_equal.coverage" NAME="left_right_sum_equal Coverage Results" MODIFIED="1580900639195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$backspace_string_compare.coverage" NAME="backspace_string_compare Coverage Results" MODIFIED="1579269302566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$words_from_other_word.coverage" NAME="words_from_other_word Coverage Results" MODIFIED="1579319111671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$print_words_vertically.coverage" NAME="print_words_vertically Coverage Results" MODIFIED="1579625387264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$min_refills_car_fuel.coverage" NAME="min_refills_car_fuel Coverage Results" MODIFIED="1580030657448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$flight_book.coverage" NAME="flight_book Coverage Results" MODIFIED="1579172230374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$money_change.coverage" NAME="money_change Coverage Results" MODIFIED="1580403080408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
