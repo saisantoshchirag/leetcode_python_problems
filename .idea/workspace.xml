@@ -2,154 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c7af424-5051-4f26-b1c7-95e48fbf8467" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1st_and_last_index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMG_20170914_125023.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alphabet_rangoli.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/armstrong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backspace_string_compare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base7'.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beautiful_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binary_gap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binary_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/break_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/burgers_ingre.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/candies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cc1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/check_st_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chef_diet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chef_drinks_coke.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codechef_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colour_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comb_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/complex_mult.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/complex_no_multi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consec_1s.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contains_dup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert_image_bnw.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookies_distribute.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/count_unique_digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/counter_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cv1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily_temp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_of_the_week.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_of_year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec_to_bin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decrypt_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/divide_two_integers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/duplicates_in_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel_sheet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factorial_trailing0s.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibo_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_10thline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flight_book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flip_image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flipbits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/g31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goat_latin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gr1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gr2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gr4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/group_anagrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/group_people.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gym_equip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hamming_dist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/horizontal_barplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/is_anagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/is_boomerang.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/is_perfect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/is_straight_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/is_subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/isomorphic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/k_weakest_rows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keyboard row.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kth_row_pascal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/largest_perimeter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/largest_triangle_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/left_right_sum_equal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/letter_comb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/longest_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/longest_palindromic_substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magic_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magic_squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/magic_squares_all.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/max_points_on_line.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/min_abs_diff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/min_flips.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/min_refills_car_fuel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/money_change.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/most_common_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n_unique_int.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/novc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/occurence_bigram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pascal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/perfect_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pltree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plus_multiply.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/power_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/power_of_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prime1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prime_arrangements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prime_n_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prime_num_fastest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/print_words_vertically.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/range_addition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/range_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rank_transform.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/relative_sort_array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/remove_elem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/replace_element_with_great_right.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rev_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rev_vowel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse-string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse_bits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reverse_words_reverse_letters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_2d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/self_dividing_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seq_digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sequential_digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set_matrix_zeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shift_2d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smallest_divisor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solve_lin_eq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/special_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stats_from_large.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/str_compress.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subsets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/substrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sum_of_even_nums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text_to_speech.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/that_is_my_score.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tic_tac_toe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/time1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/top_k_freq_elem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transposse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tribonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ugly_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unique.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unique_morse_codes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unique_number_of_occur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unique_occur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/valid_palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/valid_square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/valid_sudoku.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wiki_get.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word_pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/words_from_other_word.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youtube_video_downloader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youtube_video_downloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/youtube_video_downloader.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -204,29 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.counter_game">
-    <configuration name="colour_game" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_files" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/colour_game.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.youtube_video_downloader">
     <configuration name="corner" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_files" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -315,13 +147,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="youtube_video_downloader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_files" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/youtube_video_downloader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.youtube_video_downloader" />
         <item itemvalue="Python.counter_game" />
         <item itemvalue="Python.left_right_sum_equal" />
         <item itemvalue="Python.unique" />
         <item itemvalue="Python.corner" />
-        <item itemvalue="Python.colour_game" />
       </list>
     </recent_temporary>
   </component>
@@ -363,7 +217,7 @@
       <workItem from="1580636117151" duration="2217000" />
       <workItem from="1580707376924" duration="8276000" />
       <workItem from="1580884768906" duration="6195000" />
-      <workItem from="1581139289458" duration="1213000" />
+      <workItem from="1581139289458" duration="3733000" />
     </task>
     <servers />
   </component>
@@ -383,7 +237,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_files$corner.coverage" NAME="corner Coverage Results" MODIFIED="1580718775201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
-    <SUITE FILE_PATH="coverage/python_files$youtube_video_downloader.coverage" NAME="youtube_video_downloader Coverage Results" MODIFIED="1579699475618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_files$youtube_video_downloader.coverage" NAME="youtube_video_downloader Coverage Results" MODIFIED="1581147635511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_files$convert_image_bnw.coverage" NAME="convert_image_bnw Coverage Results" MODIFIED="1579700074596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_files$break_palindrome.coverage" NAME="break_palindrome Coverage Results" MODIFIED="1579964710169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_files$min_flips.coverage" NAME="min_flips Coverage Results" MODIFIED="1578898838121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
